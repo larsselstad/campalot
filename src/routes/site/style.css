@@ -1,0 +1,40 @@
+.home {
+	padding: 56px 0;
+	min-height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+.wrapper {
+	padding: 0 20px 20px;
+}
+
+.site {
+	position: absolute;
+	border-radius: 50%;
+	background: green;
+	width: 10px;
+	height: 10px;
+}
+
+.tentTitle {
+	padding-left: 55px;
+	background-repeat: no-repeat;
+	background-size: 13%;
+	background-position: left center;
+	background-image: url(../../gfx/tent-1.svg);
+}
+
+.ratingWrapper {
+	width: 200px;
+	text-align: right;
+}
+
+table {
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+
+td {
+	height: 46px;
+}

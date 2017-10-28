@@ -1,0 +1,23 @@
+.home {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+.site {
+	position: absolute;
+	border-radius: 50%;
+	background: green;
+	width: 10px;
+	height: 10px;
+}
+
+table {
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+
+td {
+	height: 46px;
+}
